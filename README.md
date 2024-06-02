@@ -1,4 +1,7 @@
 # Comparison of LLM and Signal-feature based model performance in Classification (Master's thesis)
+![PDF](Master_thesis.pdf)
+
+
 ## Summary
 
 
@@ -10,9 +13,14 @@
 
 
 
-
 ## Proposed Scheme
 ![proposed_scheme](https://github.com/superdianuj/text_signal_classification/assets/47445756/8ec815fa-307d-42c4-8a24-0a172114dfa4)
+
+
+## Dataset Format
+
+![image](https://github.com/superdianuj/text_signal_classification/assets/47445756/790025d7-bbf5-412a-84dd-de39aa056533)
+
 
 
 ## Results
