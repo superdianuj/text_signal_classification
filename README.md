@@ -1,4 +1,4 @@
-# Comparison of LLM and Signal-feature based model performance in Classification
+# Comparison of LLM and Signal-feature based model performance in Classification (Master's thesis)
 ## Summary
 
 
