@@ -15,5 +15,14 @@
 ![proposed_scheme](https://github.com/superdianuj/text_signal_classification/assets/47445756/8ec815fa-307d-42c4-8a24-0a172114dfa4)
 
 
+## Results
+
+![image](https://github.com/superdianuj/text_signal_classification/assets/47445756/5875869b-bd8a-48de-b784-55ad95f48b79)
+
+
+![image](https://github.com/superdianuj/text_signal_classification/assets/47445756/102cdd2a-db3c-4cf0-aeff-bf67e099198d)
+
+
+
 
 
