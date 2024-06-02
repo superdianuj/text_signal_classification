@@ -1,7 +1,5 @@
 # Comparison of LLM and Signal-feature based model performance in Classification (Master's thesis)
-[PDF](Master_thesis.pdf)
-
-[Supplementary](Master thesis defense.pdf)
+[PDF](Master_thesis.pdf) [Supplementary](Master_thesis_defense.pdf)
 
 
 ## Summary
